@@ -38,9 +38,6 @@ function App() {
               onChange = {e => setPassword (e.target.value)}
               />
 
-
-
-
               <span className='focus-input' data-placeholder="Password"></span>
             </div>
 
@@ -53,7 +50,6 @@ function App() {
 
               <a className='txt2' href='#'> Criar conta.</a>
             </div>
-
           </form>
         </div>
       </div>
